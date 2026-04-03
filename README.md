@@ -23,7 +23,8 @@ This project identifies restaurant density, "food deserts," and cuisine distribu
 * **Cuisine Trends:** While "General Dining" dominates, there is a rising trend of "Cafe & Bakery" establishments in Sanchaung and Hlaing townships.
 
 ##  Visualizations
-<img width="1226" height="736" alt="image" src="https://github.com/user-attachments/assets/3bdc36d7-9eca-4da4-966f-f7b16d2a183d" />
+<img width="537" height="345" alt="image" src="https://github.com/user-attachments/assets/4a0e77fd-274c-4b92-8427-3ccbeb13b2fa" />
+
 
 <img width="495" height="292" alt="image" src="https://github.com/user-attachments/assets/92febd7c-99fe-4b35-870f-44fef1f0244a" />
 
